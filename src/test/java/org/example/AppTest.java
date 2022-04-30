@@ -13,6 +13,7 @@ public class AppTest {
      */
     @Test
     public void shouldAnswerWithTrue() {
+        System.Println("hello world")
         assertTrue(true);
     }
 }
